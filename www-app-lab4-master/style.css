@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+body {
+    background-color:blueviolet
+     
+     
+}
+
+ 
+div {
+  background-image: url('flying-hearts.jpg');
+}
